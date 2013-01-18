@@ -1,0 +1,14 @@
+#
+#	Mail servers config
+#
+#	SYNTAX:
+#	
+#	ID | HOST | PORT | TIMEOUT | SOCK NUMBERS | MAIL FROM
+#
+         
+1|maildomain1.com|25|15|3|mail_from
+2|maildomain2.com|25|15|3|mail_from
+3|maildomain3.com|25|15|3|mail_from
+4|maildomain4.com|25|15|3|mail_from
+5|maildomain5.com|25|15|3|mail_from
+
