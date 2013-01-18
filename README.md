@@ -2,17 +2,14 @@ spamgun
 =======
 
 Spamming machine
-	SPAM gun
 
-	Spamming subscribers with some pieces of information.
+Notifying subscribers with some pieces of information via Email.
 
-	*event-based (POE library)
-	*configuration (threads per mailserver, timeouts etc)
-	*custom templates system 		
+ *event-based (POE library)
+ *configuration (mailservers pool, timeouts etc)
+ *custom templates system 		
 		
-	It was made only for customers notifications, not for spam. 
-	Use it on your own risk!!!  
-	
-	
-	2003
+It was made only for customers notifications, not for spam. 
+
+2003
 
